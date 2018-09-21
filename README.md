@@ -9,6 +9,7 @@ clone을 받으면 전체 코드가 다 복사되기 때문에 소스코드를 �
 ## Requirement
 > ### tts.py 
 >  - google-cloud-texttospeech==0.2.0 
+>  - google-cloud-speechtotext==0.36.0
 
 ## Error
 > #### Please set GOOGLE_APPLICATION_CREDENTIALS or ... 
